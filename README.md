@@ -1,0 +1,1 @@
+This shows some of the code involved in my UCSB Summer Research Academies's project. The code was written by my group (of 3 students) and displays us using mathematical models to model biofilm growth based on microplastics in aquatic environments. 
